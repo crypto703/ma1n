@@ -1,0 +1,324 @@
+h1 {
+    text-align: center;
+    font-size: 80px;
+    padding: 0px;
+        color: azure;
+     
+}
+.wwow:hover {
+      font-size: 26px;
+}
+
+.blok1 {
+    left: 500px;
+      display: block;
+}
+.wwow {
+    font-size: 25px;
+   margin-left: 250px;
+    text-decoration: none;
+     color: rgba(81, 217, 217, 0.914);
+     text-align: center;
+    margin-top: auto;
+}
+
+.produc {
+     border: 2px solid #1b9b2c;;
+   width: 230px;
+margin-left:  auto;
+  justify-content: center;
+   transition: .3s ease-in;
+   border-bottom: 2px solid #F5F5F5;
+
+    background-color: rgba(7, 7, 7, 0.877);
+   font-family: "Open Sans";
+
+}
+
+
+
+
+
+img {
+    width: 170px;
+}
+main h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-color: rgba(203, 212, 196, 0.826);
+}
+header  {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    background-color: rgba(7, 7, 7, 0.877);
+    margin-bottom: 67px;
+}
+div a {
+font-size: 20px;
+ text-decoration: none;
+    color: azure;
+}
+.block0 {
+    left: 200px;
+}
+span {
+    padding-top: 19px;
+}
+div img {
+    width: 200px;
+    height: 200px;
+}
+nav a {
+    font-size: 16px;
+ 
+    color: rgb(100, 18, 18);
+    text-decoration: none;
+}
+a:hover {
+   color: rgb(53, 66, 128);  
+}
+div p {
+    font-size: 29px;
+}
+div {
+
+    margin-right: 630px;
+text-align: center;
+border-radius: 10px;
+}
+nav a {
+    
+margin-top: 256px;
+    position: absolute;
+    left: -25px;
+    transition: 0.3s;
+    padding: 10px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+
+    border-radius: 5px;
+
+}
+
+.blog {
+    top: 265px;
+     background-color: #59036c;
+}
+.about {
+            background-color: #af864c;
+    top: 370px;
+
+}
+
+
+
+a:hover {
+        left: 0;
+
+}
+.projects {
+            background-color: #f44336;
+    top: 30px;
+    
+}
+.wew {
+            background-color: #0db523;
+    top: 323px;
+}
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#481677;
+}
+
+p{
+    width: 70%;
+}
+
+main{
+   margin-left: 180px;
+}
+
+.bblog {
+    top: 80px;
+     background-color: #6f0a1d;
+}
+.aabout {
+            background-color: #4CAF50;
+    top: 185px;
+
+}
+
+
+
+
+
+
+.product-item {
+    border: 2px solid #1b9b2c;;
+   width: 230px;
+left: 20px;
+
+   border-bottom: 2px solid #F5F5F5;
+
+    background-color: rgba(7, 7, 7, 0.877);
+   font-family: "Open Sans";
+   transition: 0.3s ease-in;
+}
+.product-item:hover {
+   border-bottom: 2px solid #fc5a5a;
+}
+.product-item img {
+   display: block;
+   width: 100%;
+}
+.product-list {
+  
+
+   padding: 15px 0;
+}
+.product-list h3 {
+   font-size: 18px;
+   font-weight: 400;
+   color: #444444;
+   margin: 0 0 10px 0;
+}
+.price {
+   font-size: 26px;
+        color: azure;
+   display: block;
+   margin-bottom: 12px;
+}
+.button {
+   text-decoration: none;
+   display: inline-block;
+   padding: 0 12px;
+   background: #cccccc;
+   color: white;
+   text-transform: uppercase;
+   font-size: 12px;
+   line-height: 28px;
+   transition: .3s ease-in;
+}
+.product-item:hover .button {
+   background: #fc5a5a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.produc{
+    border: 2px solid #1b9b2c;;
+   width: 230px;
+left: 28888880px;
+
+   border-bottom: 2px solid #F5F5F5;
+
+    background-color: rgba(7, 7, 7, 0.877);
+   font-family: "Open Sans";
+   transition: 0.3s ease-in;
+}
+.produc:hover {
+   border-bottom: 2px solid #fc5a5a;
+}
+.produc img {
+   display: block;
+   width: 100%;
+}
+
+.price {
+   font-size: 26px;
+        color: azure;
+   display: block;
+   margin-bottom: 12px;
+}
+.button {
+   text-decoration: none;
+   display: inline-block;
+   padding: 0 12px;
+   background: #cccccc;
+   color: white;
+   text-transform: uppercase;
+   font-size: 12px;
+   line-height: 28px;
+   transition: .3s ease-in;
+}
+.product-item:hover .button {
+   background: #fc5a5a;
+}
+
+
+
+
+
+
+
+
+
+
+.bout {
+top: 420px;
+      background-color: #ba720c;
+}
+.out {
+   top: 470px; 
+     background-color: #004253;
+}
+
+
+
+
+.og {
+     top: 470px; 
+     background-color: #255419;
+}
+.ew {
+     top: 520px; 
+     background-color: #700fb5;
+}
+
+.log {
+     top: 590px; 
+     background-color: #48598a;
+
+}
+
+
+
+
+.jects {
+        top: 640px; 
+     background-color: #b31023;
+
+}
+.kew {
+   top: 710px; 
+     background-color: #10b0b3; 
+}
+
+
+.class {
+   justify-content: right;
+}
